@@ -271,7 +271,7 @@ footer {
   padding: 30px 0;
   border-top: 1px #EAEAEA solid;
   margin-top: 50px;
-  font-size: 14px;
+  font-size: 4px;
   background-color: {{ site.footer-col }};
   {% if site.footer-img %}
   background-image: url({{ site.footer-img }});
@@ -489,7 +489,7 @@ footer .theme-by {
   line-height: 1.1;
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 100;
+  font-weight: 300;
   margin: 10px 0 0;
 }
 .intro-header .post-heading .post-subheading {
