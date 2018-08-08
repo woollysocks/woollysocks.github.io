@@ -2,6 +2,7 @@
 layout: page
 title: Nikita Nangia
 subtitle: -- 
+subtitle: --
 ---
 
 Hello! I'm a first-year PhD student at New York University's Center for Data Science (CDS) where I am advised by [Sam Bowman](https://www.nyu.edu/projects/bowman/). My research is broadly on machine learning and natural language processing. You can reach me at <nikitanangia@nyu.edu>.
