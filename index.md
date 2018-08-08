@@ -15,7 +15,7 @@ _Proceedings of the NAACL Student Research Workshop. 2018._
 
 [A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference](https://arxiv.org/pdf/1704.05426.pdf)  
 Adina Williams, Nikita Nangia, and Samuel R. Bowman.  
-_Proceedings of the NAACL. 2018._
+_Proceedings of NAACL. 2018._
 
 [The RepEval 2017 Shared Task: Multi-Genre Natural Language Inference with Sentence Representations](https://arxiv.org/pdf/1707.08172.pdf)  
 Nikita Nangia, Adina Williams, Angeliki Lazaridou, and Samuel R. Bowman.  
