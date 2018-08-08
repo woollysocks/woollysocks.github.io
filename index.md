@@ -1,12 +1,22 @@
 ---
 layout: page
-subtitle: About me
+title: Nikita Nangia
+subtitle: About Me
 ---
 
-My name is nor Inigo Montoya, I can still rock a grea mustache.
+Hello! As you may have gathered from the giant font, I am Nikita. I'm a first-year PhD student at New York University's Center for Data Science (CDS) where I am advised by [Sam Bowman](https://www.nyu.edu/projects/bowman/). My research is broadly on machine learning and natural language processing.
 
-What else do you need?
+I got my Masters degree in 2018 from CDS at NYU. Prior to that, I worked at a start-up for a few years (which has since crumbled) after graduating from the University of Chicago in 2013 with a Bachelor's in Physics. While in the Physics world, I studied and researched in experimental high energy.
 
-### my history
+### [Publications](https://scholar.google.com/citations?user=DoXtjzcAAAAJ&hl=en&oi=ao)
+[ListOps: A Diagnostic Dataset for Latent Tree Learning](https://arxiv.org/pdf/1804.06028.pdf)  
+Nikita Nangia and Samuel R. Bowman.  
+_Proceedings of the NAACL Student Research Workshop. 2018._  
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+[A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference](https://arxiv.org/pdf/1704.05426.pdf)  
+Adina Williams, Nikita Nangia, and Samuel R. Bowman.  
+_Proceedings of the NAACL. 2018._
+
+[The RepEval 2017 Shared Task: Multi-Genre Natural Language Inference with Sentence Representations](https://arxiv.org/pdf/1707.08172.pdf)  
+Nikita Nangia, Adina Williams, Angeliki Lazaridou, and Samuel R. Bowman.  
+_Proceedings of the 2nd Workshop on Evaluating Vector-Space Representations for NLP. 2017._
