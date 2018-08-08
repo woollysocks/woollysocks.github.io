@@ -4,10 +4,7 @@ title: Nikita Nangia
 subtitle: About me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
+My name is nor Inigo Montoya, I can still rock a grea mustache.
 
 What else do you need?
 
