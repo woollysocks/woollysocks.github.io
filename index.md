@@ -8,7 +8,7 @@ Hello! I'm a first-year PhD student at New York University's Center for Data Sci
 
 I got my Masters degree in 2018 from CDS at NYU. Prior to that, I worked at a start-up for a few years (which has since crumbled) after graduating from the University of Chicago in 2013 with a Bachelor's in Physics. While in the Physics world, I studied and researched in experimental high energy.
 
-### [Publications](https://scholar.google.com/citations?user=DoXtjzcAAAAJ&hl=en&oi=ao)
+### Publications ([Google Scholar](https://scholar.google.com/citations?user=DoXtjzcAAAAJ&hl=en&oi=ao))
 [ListOps: A Diagnostic Dataset for Latent Tree Learning](https://arxiv.org/pdf/1804.06028.pdf)  
 Nikita Nangia and Samuel R. Bowman.  
 _Proceedings of the NAACL Student Research Workshop. 2018._  
