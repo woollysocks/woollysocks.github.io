@@ -137,7 +137,8 @@ img {
 }
 
 .navbar-custom .navbar-brand-logo {
-  padding-top: 20;
+  padding-top: 0;
+  padding: 20;
   -webkit-transition: padding .5s ease-in-out;
   -moz-transition: padding .5s ease-in-out;
   transition: padding .5s ease-in-out;
