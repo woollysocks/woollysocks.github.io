@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Nikita Nangia
 subtitle: About me
 ---
 
