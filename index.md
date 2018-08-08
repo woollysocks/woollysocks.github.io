@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Nikita Nangia
-subtitle: About Me
 ---
 
-Hello! I'm a first-year PhD student at New York University's Center for Data Science (CDS) where I am advised by [Sam Bowman](https://www.nyu.edu/projects/bowman/). My research is broadly on machine learning and natural language processing.
+Hello! I'm a first-year PhD student at New York University's Center for Data Science (CDS) where I am advised by [Sam Bowman](https://www.nyu.edu/projects/bowman/). My research is broadly on machine learning and natural language processing. You can reach me at [nikitanangia@nyu.edu](nikitanangia@nyu.edu).
 
 I got my Masters degree in 2018 from CDS at NYU. Prior to that, I did R&D at a start-up for a few years (it has since crumbled) after graduating from the University of Chicago in 2013 with a Bachelor's in Physics. While in the Physics world, I studied and researched in experimental high energy.
 
