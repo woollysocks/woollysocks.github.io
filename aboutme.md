@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Nikita Nangia
 subtitle: Why you'd want to go on a date with me
 ---
 
