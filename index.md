@@ -4,7 +4,7 @@ title: Nikita Nangia
 subtitle: About Me
 ---
 
-Hello! As you may have gathered from the giant font, I am Nikita. I'm a first-year PhD student at New York University's Center for Data Science (CDS) where I am advised by [Sam Bowman](https://www.nyu.edu/projects/bowman/). My research is broadly on machine learning and natural language processing.
+Hello! I'm a first-year PhD student at New York University's Center for Data Science (CDS) where I am advised by [Sam Bowman](https://www.nyu.edu/projects/bowman/). My research is broadly on machine learning and natural language processing.
 
 I got my Masters degree in 2018 from CDS at NYU. Prior to that, I worked at a start-up for a few years (which has since crumbled) after graduating from the University of Chicago in 2013 with a Bachelor's in Physics. While in the Physics world, I studied and researched in experimental high energy.
 
