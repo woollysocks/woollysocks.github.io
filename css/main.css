@@ -544,7 +544,7 @@ footer .theme-by {
   margin-top: 0;
   background-color: #FCFCFC;
   margin: 0 0 40px;
-  padding: 20px 0;
+  padding: 80px 0;
   box-shadow: 0 0 5px #AAA;
 }
 /* Many phones are 320 or 360px, so make sure images are a proper aspect ratio in those cases */
