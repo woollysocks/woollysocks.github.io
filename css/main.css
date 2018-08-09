@@ -165,7 +165,7 @@ img {
   }
 
   .navbar-custom.top-nav-short {
-    padding: 0;
+    padding: -20;
   }
 }
 
