@@ -11,7 +11,7 @@ In 2018, I got my Masters degree in Data Science at NYU. Prior to that, I did R&
 
 ### Publications
 [A Conservative Human Baseline Estimate for GLUE: People Still (Mostly) Beat Machines](https://woollysocks.github.io/assets/GLUE_Human_Baseline.pdf)
-Nikita Nangia and Samuel R. Bowman.
+Nikita Nangia and Samuel R. Bowman.  
 _preprint_
 
 [ListOps: A Diagnostic Dataset for Latent Tree Learning](https://arxiv.org/pdf/1804.06028.pdf)  
