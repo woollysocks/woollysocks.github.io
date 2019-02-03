@@ -21,3 +21,5 @@ _Proceedings of NAACL. 2018._
 [The RepEval 2017 Shared Task: Multi-Genre Natural Language Inference with Sentence Representations](https://arxiv.org/pdf/1707.08172.pdf)  
 Nikita Nangia, Adina Williams, Angeliki Lazaridou, and Samuel R. Bowman.  
 _Proceedings of the 2nd Workshop on Evaluating Vector-Space Representations for NLP. 2017._
+
+You can find GLUE human performance baseline numbers [here](https://woollysocks.github.io//assets/GLUE_Human_Baseline.pdf)
