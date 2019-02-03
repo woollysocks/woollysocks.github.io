@@ -10,6 +10,10 @@ Hello! I'm a first-year PhD student at New York University's Center for Data Sci
 In 2018, I got my Masters degree in Data Science at NYU. Prior to that, I did R&D for a few year at a start-up (which has since crumbled) after graduating from the University of Chicago in 2013 with a Bachelor's in Physics. While in the Physics world, I studied and researched in experimental high energy.
 
 ### Publications
+[A Conservative Human Baseline Estimate for GLUE: People Still (Mostly) Beat Machines](https://woollysocks.github.io/assets/GLUE_Human_Baseline.pdf)
+Nikita Nagia and Samuel R. Bowman.
+_preprint_
+
 [ListOps: A Diagnostic Dataset for Latent Tree Learning](https://arxiv.org/pdf/1804.06028.pdf)  
 Nikita Nangia and Samuel R. Bowman.  
 _Proceedings of the NAACL Student Research Workshop. 2018._  
@@ -21,5 +25,3 @@ _Proceedings of NAACL. 2018._
 [The RepEval 2017 Shared Task: Multi-Genre Natural Language Inference with Sentence Representations](https://arxiv.org/pdf/1707.08172.pdf)  
 Nikita Nangia, Adina Williams, Angeliki Lazaridou, and Samuel R. Bowman.  
 _Proceedings of the 2nd Workshop on Evaluating Vector-Space Representations for NLP. 2017._
-
-You can find GLUE human performance baseline numbers [here](https://woollysocks.github.io//assets/GLUE_Human_Baseline.pdf)
