@@ -10,7 +10,7 @@ Hello! I'm a first-year PhD student at New York University's Center for Data Sci
 In 2018, I got my Masters degree in Data Science at NYU. Prior to that, I did R&D for a few year at a start-up (which has since crumbled) after graduating from the University of Chicago in 2013 with a Bachelor's in Physics. While in the Physics world, I studied and researched in experimental high energy.
 
 ### Publications
-[Human vs. Muppet: A Conservative Estimate of HumanPerformance on the GLUE Benchmark](https://woollysocks.github.io/assets/GLUE_Human_Baseline.pdf)
+[Human vs. Muppet: A Conservative Estimate of HumanPerformance on the GLUE Benchmark](https://woollysocks.github.io/assets/GLUE_Human_Baseline.pdf)<br>
 Nikita Nangia and Samuel R. Bowman.  
 _Preprint version. In proceedings of ACL. 2019._
 
