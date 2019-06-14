@@ -11,20 +11,21 @@ In 2018, I got my Masters degree in Data Science at NYU. Prior to that, I did R&
 
 ### Publications
 [SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems](https://arxiv.org/pdf/1905.00537.pdf)<br>
-Alex Wang, Yada Pruksachatkun, <strong>Nikita Nangia</strong>, Amanpreet Singh, Julian Michael, Felix Hill, Omer Levy, Samuel R. Bowman
+Alex Wang, Yada Pruksachatkun, <strong>Nikita Nangia</strong>, Amanpreet Singh, Julian Michael, Felix Hill, Omer Levy, Samuel R. Bowman.
+_Preprint version. Under review._
 
 [Human vs. Muppet: A Conservative Estimate of HumanPerformance on the GLUE Benchmark](https://woollysocks.github.io/assets/GLUE_Human_Baseline.pdf)<br>
 <strong>Nikita Nangia</strong> and Samuel R. Bowman.  
 _Preprint version. In proceedings of ACL. 2019._
 
-[ListOps: A Diagnostic Dataset for Latent Tree Learning](https://arxiv.org/pdf/1804.06028.pdf)  
+[ListOps: A Diagnostic Dataset for Latent Tree Learning](https://arxiv.org/pdf/1804.06028.pdf)<br>
 <strong>Nikita Nangia</strong> and Samuel R. Bowman.  
 _Proceedings of the NAACL Student Research Workshop. 2018._  
 
-[A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference](https://arxiv.org/pdf/1704.05426.pdf)  
+[A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference](https://arxiv.org/pdf/1704.05426.pdf)<br>
 Adina Williams, <strong>Nikita Nangia</strong>, and Samuel R. Bowman.  
 _Proceedings of NAACL. 2018._
 
 [The RepEval 2017 Shared Task: Multi-Genre Natural Language Inference with Sentence Representations](https://arxiv.org/pdf/1707.08172.pdf)  
-<strong>Nikita Nangia</strong>, Adina Williams, Angeliki Lazaridou, and Samuel R. Bowman.  
+<strong>Nikita Nangia</strong>, Adina Williams, Angeliki Lazaridou, and Samuel R. Bowman.<br>
 _Proceedings of the 2nd Workshop on Evaluating Vector-Space Representations for NLP. 2017._
