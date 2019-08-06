@@ -14,18 +14,18 @@ In 2018, I got my Masters degree in Data Science at NYU. Prior to that, I did R&
 Alex Wang, Yada Pruksachatkun, <strong>Nikita Nangia</strong>, Amanpreet Singh, Julian Michael, Felix Hill, Omer Levy, Samuel R. Bowman.  
 _Preprint version. Under review._
 
-[Human vs. Muppet: A Conservative Estimate of Human Performance on the GLUE Benchmark](https://arxiv.org/pdf/1905.10425.pdf)  
+[Human vs. Muppet: A Conservative Estimate of Human Performance on the GLUE Benchmark](https://www.aclweb.org/anthology/P19-1449)  
 <strong>Nikita Nangia</strong> and Samuel R. Bowman.  
-_Preprint version. In proceedings of ACL. 2019._
+_Proceedings of ACL. 2019.[[poster]](https://woollysocks.github.io/assets/HumanvMuppet_ACL2019.png)_
 
-[ListOps: A Diagnostic Dataset for Latent Tree Learning](https://arxiv.org/pdf/1804.06028.pdf)  
+[ListOps: A Diagnostic Dataset for Latent Tree Learning](https://aclweb.org/anthology/N18-4013)  
 <strong>Nikita Nangia</strong> and Samuel R. Bowman.  
 _Proceedings of the NAACL Student Research Workshop. 2018._  
 
-[A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference](https://arxiv.org/pdf/1704.05426.pdf)  
+[A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference](https://aclweb.org/anthology/N18-1101)  
 Adina Williams, <strong>Nikita Nangia</strong>, and Samuel R. Bowman.    
 _Proceedings of NAACL. 2018._
 
-[The RepEval 2017 Shared Task: Multi-Genre Natural Language Inference with Sentence Representations](https://arxiv.org/pdf/1707.08172.pdf)  
+[The RepEval 2017 Shared Task: Multi-Genre Natural Language Inference with Sentence Representations](https://aclweb.org/anthology/W17-5301)  
 <strong>Nikita Nangia</strong>, Adina Williams, Angeliki Lazaridou, and Samuel R. Bowman.  
 _Proceedings of the 2nd Workshop on Evaluating Vector-Space Representations for NLP. 2017._
