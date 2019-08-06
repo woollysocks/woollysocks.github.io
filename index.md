@@ -14,9 +14,9 @@ In 2018, I got my Masters degree in Data Science at NYU. Prior to that, I did R&
 Alex Wang, Yada Pruksachatkun, <strong>Nikita Nangia</strong>, Amanpreet Singh, Julian Michael, Felix Hill, Omer Levy, Samuel R. Bowman.  
 _Preprint version. Under review._
 
-[Human vs. Muppet: A Conservative Estimate of Human Performance on the GLUE Benchmark](https://www.aclweb.org/anthology/P19-1449)  
+[Human vs. Muppet: A Conservative Estimate of Human Performance on the GLUE Benchmark](https://www.aclweb.org/anthology/P19-1449) 
 <strong>Nikita Nangia</strong> and Samuel R. Bowman.  
-_Proceedings of ACL. 2019.[[poster]](https://woollysocks.github.io/assets/HumanvMuppet_ACL2019.png)_
+_Proceedings of ACL. 2019. [[poster]](https://woollysocks.github.io/assets/HumanvMuppet_ACL2019.png)_
 
 [ListOps: A Diagnostic Dataset for Latent Tree Learning](https://aclweb.org/anthology/N18-4013)  
 <strong>Nikita Nangia</strong> and Samuel R. Bowman.  
