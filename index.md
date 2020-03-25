@@ -9,7 +9,9 @@ Hi there! I'm a second-year PhD student at New York University's Center for Data
 
 In 2018, I got my Masters degree in Data Science at NYU. Prior to that, I did R&D for a few year at a start-up (which has since crumbled) after graduating from the University of Chicago in 2013 with a Bachelor's in Physics. While in the Physics world, I studied and researched in experimental high energy.
 
-### Publications [[google scholar](https://scholar.google.com/citations?user=DoXtjzcAAAAJ&hl=en&oi=ao)]
+### Publications 
+_[Google scholar](https://scholar.google.com/citations?user=DoXtjzcAAAAJ&hl=en&oi=ao)_
+
 [SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems](https://arxiv.org/pdf/1905.00537.pdf)  
 Alex Wang, Yada Pruksachatkun, <strong>Nikita Nangia</strong>, Amanpreet Singh, Julian Michael, Felix Hill, Omer Levy, Samuel R. Bowman.  
 _Preprint version. Under review._
