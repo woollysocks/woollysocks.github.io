@@ -17,7 +17,7 @@ Here's my _[Google scholar](https://scholar.google.com/citations?user=DoXtjzcAAA
 Alex Wang, Yada Pruksachatkun, <strong>Nikita Nangia</strong>, Amanpreet Singh, Julian Michael, Felix Hill, Omer Levy, Samuel R. Bowman.  
 _Preprint version. Under review._
 
-[Human vs. Muppet: A Conservative Estimate of Human Performance on the GLUE Benchmark](https://www.aclweb.org/anthology/P19-1449) 
+[Human vs. Muppet: A Conservative Estimate of Human Performance on the GLUE Benchmark](https://www.aclweb.org/anthology/P19-1449)  
 <strong>Nikita Nangia</strong> and Samuel R. Bowman.  
 _Proceedings of ACL. 2019. [[poster]](https://woollysocks.github.io/assets/HumanvMuppet_ACL2019.png)_
 
