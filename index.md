@@ -5,7 +5,7 @@ title: Nikita Nangia
 
 [//]: # "Hi there! I'm a first-year PhD student at New York University where I am advised by [Sam Bowman](https://www.nyu.edu/projects/bowman/). I am a member of the [Machine Learning for Language Lab (ML<sup>2</sup>)](https://wp.nyu.edu/ml2/). You can reach me at <nikitanangia@nyu.edu>."
 
-Hi there! I'm a first-year PhD student at New York University's Center for Data Science (CDS) where I am advised by [Sam Bowman](https://www.nyu.edu/projects/bowman/). My research is broadly on machine learning and natural language processing. You can reach me at <nikitanangia@nyu.edu>.
+Hi there! I'm a second-year PhD student at New York University's Center for Data Science (CDS) where I am advised by [Sam Bowman](https://www.nyu.edu/projects/bowman/). My research is broadly on machine learning and natural language processing. You can reach me at <nikitanangia@nyu.edu>.
 
 In 2018, I got my Masters degree in Data Science at NYU. Prior to that, I did R&D for a few year at a start-up (which has since crumbled) after graduating from the University of Chicago in 2013 with a Bachelor's in Physics. While in the Physics world, I studied and researched in experimental high energy.
 
