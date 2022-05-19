@@ -3,13 +3,18 @@ layout: page
 title: Nikita Nangia 
 ---
 
-Hi there! I'm a third-year PhD student at New York University's Center for Data Science (CDS) where I am advised by [Sam Bowman](https://www.nyu.edu/projects/bowman/). My research is in on machine learning and natural language processing, with a focus on crowdsourcing high-quality datasets. You can reach me at <nikitanangia@nyu.edu>.
+Hi there! I'm a fourth-year PhD student at New York University's Center for Data Science (CDS) where I am advised by [Sam Bowman](https://www.nyu.edu/projects/bowman/). My research is in on machine learning and natural language processing, with a focus on crowdsourcing methodologies for high quality NLU data. You can reach me at <nikitanangia@nyu.edu>.
 
 In 2018, I got my Masters degree in Data Science at NYU. Prior to that, I did R&D for a few year at a start-up (which no longer exists) after graduating from the University of Chicago in 2013 with a Bachelor's in Physics. While in the Physics world, I studied and researched in experimental high energy.
 
+### Publications
 Here's my _[Google scholar](https://scholar.google.com/citations?user=DoXtjzcAAAAJ&hl=en&oi=ao)_ for an up-to-date list of publications.
 
-### Selected publications 
+
+### NYU AI School
+Aside from research, I've been one of the primary organizers of the [NYU AI School](https://nyu-mll.github.io/nyu-ai-school-2021/) since we started it in 2019. Our focus with this week long program is to introduce college students from underrepresented groups to machine learning. We hope demystify the field and make it approachable, encouraging more students to pursue work and studies in ML.
+
+<!-- ### Selected publications
 
 [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://arxiv.org/abs/2010.00133)  
 <strong>Nikita Nangia</strong>, Clara Vania, Rasika Bhalerao, Samuel R. Bowman.
@@ -34,3 +39,4 @@ _Proceedings of NAACL. 2018._
 [The RepEval 2017 Shared Task: Multi-Genre Natural Language Inference with Sentence Representations](https://aclweb.org/anthology/W17-5301)  
 <strong>Nikita Nangia</strong>, Adina Williams, Angeliki Lazaridou, and Samuel R. Bowman.  
 _Proceedings of the 2nd Workshop on Evaluating Vector-Space Representations for NLP. 2017._
+ -->
