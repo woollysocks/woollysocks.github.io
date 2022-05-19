@@ -12,7 +12,7 @@ Here's my _[Google scholar](https://scholar.google.com/citations?user=DoXtjzcAAA
 
 
 ### NYU AI School
-Aside from research, I've been one of the primary organizers of the [NYU AI School](https://nyu-mll.github.io/nyu-ai-school-2021/) since we started it in 2019. Our focus with this week long program is to introduce college students from underrepresented groups to machine learning. We hope demystify the field and make it approachable, encouraging more students to pursue work and studies in ML.
+Aside from research, I've been one of the primary organizers of the [NYU AI School](https://nyu-mll.github.io/nyu-ai-school-2021/) since we started it in 2019. Our focus with this week-long program is to introduce college students from underrepresented groups to machine learning. We hope to demystify the field and make it approachable, encouraging more students to pursue work and studies in ML.
 
 <!-- ### Selected publications
 
