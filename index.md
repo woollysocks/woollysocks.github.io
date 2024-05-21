@@ -3,9 +3,9 @@ layout: page
 title: Nikita Nangia 
 ---
 
-Hi there! I'm a fourth-year PhD student at New York University's Center for Data Science (CDS) where I am advised by [Sam Bowman](https://www.nyu.edu/projects/bowman/). My research is in on machine learning and natural language processing, with a focus on crowdsourcing methodologies for high quality NLU data. You can reach me at <nikitanangia@nyu.edu>.
+Hi! I'm an NLP researcher with a PhD in Data Science from New York University's Center for Data Science (CDS) where I was advised by [Sam Bowman](https://www.nyu.edu/projects/bowman/); I just completed my doctorate in May 2024. My research has focused on data-creation and crowdsourcing methodologies for NLP model evaluation, with a focus on pre-trained LLMs. I'm currently on the job market! And you can reach me at <nikitanangia@nyu.edu>.
 
-In 2018, I got my Masters degree in Data Science at NYU. Prior to that, I did R&D for a few year at a start-up (which no longer exists) after graduating from the University of Chicago in 2013 with a Bachelor's in Physics. While in the Physics world, I studied and researched in experimental high energy.
+In 2018, I got my Masters degree in Data Science at NYU. Prior to that, I did R&D for a few year at a start-up after graduating from the University of Chicago in 2013 with a Bachelor's in Physics. While in the Physics world, I studied and researched in experimental high energy.
 
 ### Publications
 Here's my _[Google scholar](https://scholar.google.com/citations?user=DoXtjzcAAAAJ&hl=en&oi=ao)_ for an up-to-date list of publications.
