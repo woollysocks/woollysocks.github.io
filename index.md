@@ -3,16 +3,20 @@ layout: page
 title: Nikita Nangia 
 ---
 
-Hi! I'm an NLP researcher with a PhD in Data Science from New York University's Center for Data Science (CDS) where I was advised by [Sam Bowman](https://www.nyu.edu/projects/bowman/); I just completed my doctorate in May 2024. My research has focused on data-creation and crowdsourcing methodologies for NLP model evaluation, with a focus on pre-trained LLMs. I'm currently on the job market! And you can reach me at <nikitanangia@nyu.edu>.
+Hi! I'm an NLP researcher with a PhD in Data Science from New York University's Center for Data Science (CDS) where I was advised by [Sam Bowman](https://www.nyu.edu/projects/bowman/). My research has focused on data-creation and crowdsourcing methodologies for NLP model evaluation. I'm currently working on NLP data and eval things at Amazon as a Language Data Scientist. 
 
-In 2018, I got my Masters degree in Data Science at NYU. Prior to that, I did R&D for a few year at a start-up after graduating from the University of Chicago in 2013 with a Bachelor's in Physics. While in the Physics world, I studied and researched in experimental high energy.
+Prior to venturing in NLP, I did R&D for a few year at a start-up after graduating from the University of Chicago in 2013 with a Bachelor's in Physics. While in the Physics world, I studied and researched in experimental high energy.
+
+I will be setting up a regular office hours soon, in the mean time if you want to chat about research, or academia, or NYU, or industry, you can reach me at <nikitanangia@gmail.com>. 
+
+
 
 ### Publications
 Here's my _[Google scholar](https://scholar.google.com/citations?user=DoXtjzcAAAAJ&hl=en&oi=ao)_ for an up-to-date list of publications.
 
 
-### NYU AI School
-Aside from research, I've been one of the primary organizers of the [NYU AI School](https://nyu-mll.github.io/nyu-ai-school-2021/) since we started it in 2019. Our focus with this week-long program is to introduce college students from underrepresented groups to machine learning. We hope to demystify the field and make it approachable, encouraging more students to pursue work and studies in ML.
+<!-- ### NYU AI School
+Aside from research, I've been one of the primary organizers of the [NYU AI School](https://nyu-mll.github.io/nyu-ai-school-2021/) since we started it in 2019. Our focus with this week-long program is to introduce college students from underrepresented groups to machine learning. We hope to demystify the field and make it approachable, encouraging more students to pursue work and studies in ML. -->
 
 <!-- ### Selected publications
 
