@@ -3,7 +3,7 @@ layout: page
 title: Nikita Nangia 
 ---
 
-Hi! I'm an NLP researcher with a PhD in Data Science from New York University's Center for Data Science (CDS) where I was advised by [Sam Bowman](https://www.nyu.edu/projects/bowman/). My research has focused on data-creation and crowdsourcing methodologies for NLP model evaluation. I'm currently working on NLP data and eval things at Amazon as a Language Data Scientist. 
+Hi! I'm an NLP researcher with a PhD in Data Science from New York University's Center for Data Science (CDS) where I was advised by [Sam Bowman](https://www.nyu.edu/projects/bowman/). My research has focused on data-creation and crowdsourcing methodologies for NLP model evaluation. I'm currently working on NLP data and eval things at AWS. 
 
 Prior to venturing in NLP, I did R&D for a few year at a start-up after graduating from the University of Chicago in 2013 with a Bachelor's in Physics. While in the Physics world, I studied and researched in experimental high energy.
 
