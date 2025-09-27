@@ -3,11 +3,11 @@ layout: page
 title: Nikita Nangia 
 ---
 
-Hi! I'm an NLP researcher with a PhD in Data Science from New York University's Center for Data Science (CDS) where I was advised by [Sam Bowman](https://www.nyu.edu/projects/bowman/). My research focuses on safety, responsibel AI, and data-creation methodologies for rigorous model evaluation. I'm currently an Applied Scientist working on Responsible AI at Amazon AGI. 
+Hi! I'm an NLP researcher, working on Responsible AI at Amazon AGI. I have a PhD in Data Science from New York University's Center for Data Science (CDS) where I was advised by [Sam Bowman](https://www.nyu.edu/projects/bowman/). My research focuses on safety, responsible AI, and data-creation methodologies for rigorous model evaluation. 
 
-Before NLP, I did signal processing R&D for a few year at a start-up after graduating from the University of Chicago with a Bachelor's in Physics. While in the Physics world, I studied and researched in experimental high energy (indirect dark matter detection).
+<!-- Before NLP, I did signal processing R&D for a few year at a start-up after graduating from the University of Chicago with a Bachelor's in Physics. While in the Physics world, I studied and researched in experimental high energy (indirect dark matter detection). -->
 
-I will be setting up a regular office hours soon, in the mean time if you want to chat about research, you can reach me at <nikitanangia@gmail.com>. Please note, I give priority to students when setting up meetings.
+I will be setting up a regular office hours soon, in the mean time if you want to chat about research, academia, or industry, you can reach me at <nikitanangia@gmail.com>. Please note, I give priority to students when setting up meetings.
 
 
 
