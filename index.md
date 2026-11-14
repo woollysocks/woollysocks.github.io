@@ -3,7 +3,7 @@ layout: page
 title: Nikita Nangia 
 ---
 
-Hi! I'm an NLP researcher, working on Responsible AI at Amazon AGI. I have a PhD in Data Science from New York University's Center for Data Science (CDS) and my thesis was on establishing robust, emperically proved crowdsourcing methodlogies for buidling NLP evaluation datasets and metrics. My research currently focuses on safety, responsible AI, and data-creation methodologies for rigorous model evaluation. 
+Hi! I'm an ML researcher doing model evaluations research. I have a PhD in Data Science from New York University's Center for Data Science (CDS) and my thesis was on establishing robust, emperically proved crowdsourcing methodlogies for buidling NLP evaluation datasets and metrics. My research currently focuses on safety, responsible AI, and data-creation methodologies for rigorous model evaluation. 
 
 <!-- Before NLP, I did signal processing R&D for a few year at a start-up after graduating from the University of Chicago with a Bachelor's in Physics. While in the Physics world, I studied and researched in experimental high energy (indirect dark matter detection). -->
 
